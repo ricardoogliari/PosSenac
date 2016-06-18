@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297657789314",
+    "project_id": "possenac-a99e3"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297657789314:android:d2f6c7ef989cd890",
+        "android_client_info": {
+          "package_name": "com.senac.rsilva.possenac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297657789314-53dip9rcsc7778tt2ecln5h9ba5uj5ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.senac.rsilva.possenac",
+            "certificate_hash": "4FDD884AB90C231F33BD4E75C9DA77BCBA25190A"
+          }
+        },
+        {
+          "client_id": "297657789314-mhopumqhqsl8s9742ha8hoqli5pp1bav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGX2fwesvrFXir4bbW_qRjMDd3zrh4M-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
